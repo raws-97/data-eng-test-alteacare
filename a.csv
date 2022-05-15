@@ -1,0 +1,6 @@
+id,cust_id,order_referece_id,data,status,created_date
+1,C0125,OR122334,"{""PRODUCT"":{""PRODDESCR"":""Gergaji Mesin"",""TYPE"":""Tools""},""PRICE"":{""PRODPRICE"":""200000"",""DATE"":""20220328""}}",SUCCESS,28/03/2022
+2,C0126,OR122335,"{""PRODUCT"":{""PRODDESCR"":""LED TV"",""TYPE"":""ELECTRONIC""},""PRICE"":{""PRODPRICE"":""200000"",""DATE"":""20220329""}}",SUCCESS,29/03/2022
+3,C0127,OR122336,"{""PRODUCT"":{""PRODDESCR"":""Meja Kerja"",""TYPE"":""Furniture""},""PRICE"":{""PRODPRICE"":""250000"",""DATE"":""20220330""}}",FAILED,30/03/2022
+4,C0128,OR122337,"{""PRODUCT"":{""PRODDESCR"":""Monitor LED"",""TYPE"":""ELECTRONIC""},""PRICE"":{""PRODPRICE"":""350000"",""DATE"":""20220331""}}",SUCCESS,31/03/2022
+5,C0129,OR122338,"{""PRODUCT"":{""PRODDESCR"":""Gergaji Mesin"",""TYPE"":""Tools""},""PRICE"":{""PRODPRICE"":""200000"",""DATE"":""20220401""}}",SUCCESS,01/04/2022
